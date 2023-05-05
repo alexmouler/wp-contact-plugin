@@ -1,2 +1,2 @@
 # wp-contact-plugin
-WordPress contact plugin that emails and stores responses in the WP backend.
+WordPress contact plugin that emails and stores responses in the WP backend using Carbon Fields.
